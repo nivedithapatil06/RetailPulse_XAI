@@ -1,24 +1,38 @@
 # RetailPulse_XAI
 
-AI Powered Retail Analytics & Demand Forecasting Platform
+AI Powered Retail Analytics Dashboard using Machine Learning and Streamlit.
 
 ## Features
-- Sales Forecasting
-- Retail Analytics Dashboard
-- Store Performance Analysis
-- Correlation Analysis
-- Machine Learning Prediction
+- Weekly sales prediction
+- Correlation heatmap
+- Sales trend visualization
+- Retail analytics dashboard
+- Machine learning forecasting
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit
 - Matplotlib
 - Seaborn
+- Streamlit
+
+## Project Structure
+
+RetailPulse_XAI/
+│
+├── data/
+├── notebooks/
+├── models/
+├── screenshots/
+├── app.py
+├── requirements.txt
+└── README.md
 
 ## Run Project
 
 ```bash
 streamlit run app.py
+
+
