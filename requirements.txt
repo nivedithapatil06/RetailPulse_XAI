@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+streamlit
+shap
+xgboost
+evidently
+firebase-admin
+openpyxl
